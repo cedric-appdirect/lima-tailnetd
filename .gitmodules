@@ -1,0 +1,4 @@
+[submodule "lima"]
+	path = lima
+	url = https://github.com/cedric-appdirect/lima.git
+	branch = feat/external-usernet-daemon
